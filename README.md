@@ -190,4 +190,4 @@ Por ser um projeto de estudo, algumas coisas ficaram de fora:
 
 ## Autora
 
-**Agatha** — [GitHub](https://github.com/Agathapsm) · [LinkedIn](https://www.linkedin.com/in/%C3%A1gatha-paiva-97574b251/)
+**Ágatha Paiva** — [LinkedIn](https://www.linkedin.com/in/%C3%A1gatha-paiva-97574b251/)
